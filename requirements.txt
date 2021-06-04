@@ -42,7 +42,7 @@ regex==2021.4.4
 requests==2.25.1
 selenium==3.141.0
 setuptools==56.0.0
-six==1.16.01.16.0
+six==1.16.0
 sounddevice==0.4.1
 soupsieve==2.2.1
 tqdm==4.61.0
